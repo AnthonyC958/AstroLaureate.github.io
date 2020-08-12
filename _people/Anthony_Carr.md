@@ -18,4 +18,4 @@ rank: 30
  
 # Biography
 
-Some content here please. Hello there
+**Research interests**: supernova Cosmology, redshift accuracy, systematic errors and their effects on cosmological parameters.
